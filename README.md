@@ -1,1 +1,1 @@
-# chili-void-bspwm-skel
+# chili-void-awesome-skel
